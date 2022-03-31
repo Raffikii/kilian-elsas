@@ -27,11 +27,6 @@ html {
     scroll-behavior: smooth;
 }
 
-.sec-01{
-    position: relative;
-    transform: translate(-80px, 50px);
-}
-
 /*Styles for product card*/
 
 .product .product-card{
